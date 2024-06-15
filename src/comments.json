@@ -1,0 +1,12 @@
+[
+  {
+    "username": "testUser",
+    "mail": "test@com.ru",
+    "text": "Test Comment"
+  },
+  {
+    "username": "TestCommentator",
+    "mail": "asd@a.ru",
+    "text": "Test comment 2"
+  }
+]

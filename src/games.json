@@ -1,0 +1,30 @@
+[
+    {
+        "nameGame": "Old World",
+        "platforms": ["All", "PC", "Xbox"],
+        "imgSrc": "OldWorld",
+        "money": 400,
+        "id": 0
+    },
+    {
+        "nameGame": "Hearths of iron IV",
+        "platforms": ["All", "PC", "Xbox"],
+        "imgSrc": "HOI4cadet",
+        "money": 990,
+        "id": 1
+    },
+    {
+        "nameGame": "Resident Evil 4",
+        "platforms": ["All", "PC", "Xbox", "PlayStation"],
+        "imgSrc": "resEvil4gold",
+        "money": 3000,
+        "id": 2
+    },
+    {
+        "nameGame": "GTFO",
+        "platforms": ["All", "PC"],
+        "imgSrc": "GTFO",
+        "money": 1500,
+        "id": 3
+    }
+]
