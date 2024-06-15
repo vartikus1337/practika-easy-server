@@ -3,25 +3,26 @@
 1.  Сначала переносишь `package.json` в `../` (на уровень выше)
 
 ```bash
-	npm install
+npm install
 ```
 
 2.  Потом `package.json` перекидываешь в `src/`
 3.  Переходишь сам в `src`
 
 ```bash
-	cd ./src/
+cd ./src/
 ```
 
 4.  Запускаешь `package.json`
 
 ```bash
-	npm start
+npm start
 ```
 
 ## Получается:
 
 ```bash
+practika-easy-server
 ├── node_modules
 ├── src
 │   ├── png
